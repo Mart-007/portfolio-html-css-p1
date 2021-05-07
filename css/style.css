@@ -32,12 +32,12 @@ body{
             position: absolute;
         } 
         ul{
-            margin-left: 50%;
+            margin-left: 35%;
             display: inline;
             
         }
         li{
-            padding-left: 5em;
+            padding-left: 2em;
             display: inline-block;
         }   
             li > a{
